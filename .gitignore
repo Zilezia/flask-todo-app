@@ -1,5 +1,8 @@
-# Gitignore
+# .gitignore
+
+# Gitignore file
 .gitignore
+
 # Python
 __pycache__/
 *.pyc
