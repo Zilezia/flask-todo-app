@@ -1,3 +1,5 @@
+# Gitignore
+.gitignore
 # Python
 __pycache__/
 *.pyc
@@ -5,6 +7,5 @@ __pycache__/
 *.pyd
 *.pyz
 *.pyw
-
 # Virtual Environment
 .venv/
