@@ -15,3 +15,4 @@ Type a task in the `input` and submit<br>
 `Delete` = Deletes a "Task"<br>
 `Update` = Can change a "Task" -> submit `Update`<br>
 
+Remove instance/ after use
